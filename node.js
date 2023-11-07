@@ -1,3 +1,6 @@
+//1. Crea una funzione che crea la versione girata di una parola. Chiedi all'utente una parola e mostra la versione girata della parola.
+
+
 function reverseWord(string) {
     let slpitWord = string.split("");
     let reverseString = slpitWord.reverse();
